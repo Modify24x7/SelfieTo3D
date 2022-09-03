@@ -3,7 +3,7 @@ Single selfie photo to 3D Face
 
 Export Path:
 
-    Documents->Selfie To 3D
+    Documents->Selfie To 3D->Output
 
 System Requirement:
 
